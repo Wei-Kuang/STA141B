@@ -1,4 +1,5 @@
-<img src="me.jpg" width="350"> # Wei-Kuang's Portfolio 
+<img src="me.jpg" width="350"> 
+# Wei-Kuang's Portfolio 
 
 :email: wklin@ucdavis.edu
 :arrow_forward: <a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
