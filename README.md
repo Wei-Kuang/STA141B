@@ -2,7 +2,6 @@
 :email: wklin@ucdavis.edu
 :arrow_forward: <a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
 
-![alt text](me.jpg "Title")
 <img src="me.jpg" width="200">
 
 ## Data Analysis &amp; Web Technologies Using Python
