@@ -3,7 +3,7 @@
 :arrow_forward: <a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
 
 
-> ## Data Analysis &amp; Web Technologies Using Python
+> Data Analysis &amp; Web Technologies Using Python
 
 #### :date: <a href = "https://github.com/Wei-Kuang/STA141B/blob/master/HW1/hw1-2019.ipynb">1. The Doomsday Algorithm </a>  
 
