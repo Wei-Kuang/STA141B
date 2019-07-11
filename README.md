@@ -14,8 +14,6 @@ Six projects and one teamwork project demonstarted Data Analysis &amp; Web Techn
 #### :newspaper: <a href = "HW5/assignment5.html">5. Web Scraping and Natural Language Processing</a>    
 The targeted website: <a href = "https://theaggie.org/"> the California Aggie News</a> 
 
-#### :earth_americas: Map projections & SQLite dataset of zillow housing price, crime, schools and vendors in San Francisco 
-<a href = "HW6/assignment6.html">Assignment 6</a> 
+#### :earth_americas: <a href = "HW6/assignment6.html">6. Use Map Techniques and SQL to analyze housing price and crime rate in San Francisco</a> 
 
-#### :house: CaliforniaHousing 
-<a href = "https://alice4926.github.io/CaliforniaHousing/">Final Project </a> 
+#### :fries: Teamwork project <a href = "https://alice4926.github.io/CaliforniaHousing/"> Analyze living cost using Yelp database </a> 
