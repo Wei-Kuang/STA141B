@@ -15,4 +15,4 @@ Six projects and one teamwork project demonstarted Data Analysis &amp; Web Techn
 
 #### :earth_americas: <a href = "HW6/assignment6.html">6. Use Map Techniques and SQL to analyze housing price and crime rate in San Francisco</a> 
 
-#### :fries: <a href = "https://alice4926.github.io/CaliforniaHousing/">Teamwork project: Analyze price, rating, and location using Yelp database </a> 
+#### :fries: <a href = "https://alice4926.github.io/CaliforniaHousing/"> 7. Teamwork Project: Analyze Price, Rating, and Location Using Yelp Database </a> 
