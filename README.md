@@ -1,6 +1,4 @@
 # Wei-Kuang's Portfolio 
-:email: wklin@ucdavis.edu
-:arrow_forward: <a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
 
 # Projects 
 Data Analysis &amp; Web Technologies using Python
@@ -18,3 +16,7 @@ Data Analysis &amp; Web Technologies using Python
 #### :earth_americas: <a href = "HW6/assignment6.html">6. Use Map Techniques and SQL to analyze housing price and crime rate in San Francisco</a> 
 
 #### :fries: <a href = "https://alice4926.github.io/CaliforniaHousing/"> 7. Teamwork Project: Analyze Price, Rating, and Location Using Yelp Database </a> 
+
+
+:email: wklin@ucdavis.edu
+:arrow_forward: <a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
