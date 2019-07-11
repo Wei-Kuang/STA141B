@@ -1,7 +1,7 @@
 # Wei-Kuang's Portfolio
-* :telephone_receiver: 517-775-2511
-* :email: wklin@ucdavis.edu
-* Six projects and one teamwork project demonstarted Data Analysis &amp; Web Technologies using Python
+##### :telephone_receiver: 517-775-2511
+##### :email: wklin@ucdavis.edu
+##### Six projects and one teamwork project demonstarted Data Analysis &amp; Web Technologies using Python
 
 
 
