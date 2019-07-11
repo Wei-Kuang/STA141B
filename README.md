@@ -1,6 +1,6 @@
 # Wei-Kuang's Portfolio 
 :email: wklin@ucdavis.edu
-:raised_hand: <a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
+   :raised_hand: <a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
 
 # Projects 
 Data Analysis &amp; Web Technologies using Python
