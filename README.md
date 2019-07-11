@@ -1,9 +1,10 @@
-<img src="me.jpg" width="350"> 
+# Wei-Kuang's Portfolio
+<img src="me.jpg" height="200">
 
-# Wei-Kuang's Portfolio 
+<img src="output_43_3.png" height="200">
 
-:email: wklin@ucdavis.edu
-:arrow_forward: <a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
+wklin@ucdavis.edu
+<a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
 
 
 ## Data Analysis &amp; Web Technologies Using Python
