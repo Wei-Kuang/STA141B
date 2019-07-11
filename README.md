@@ -1,10 +1,9 @@
 <img src="me2.jpg" width="700"> 
 
 ---
-
-* Contact Information
-wklin@ucdavis.edu
-<a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
+Contact Information
+1. wklin@ucdavis.edu
+2. <a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
 
 
 ## Data Analysis &amp; Web Technologies Using Python
