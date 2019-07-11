@@ -1,7 +1,5 @@
-# Wei-Kuang's Profolio for Data Analysis using Python
-Six projects and one teamwork project demonstarted Data &amp; Web Technologies.
-
-
+# Wei-Kuang's Portfolio
+Six projects and one teamwork project demonstarted Data Analysis &amp; Web Technologies using Python
 
 
 ## I am a Biostatistics major student in UC-Davis. I got my Bachelor degree in Statistics. I have been working in Runcie Lab in analyzing plants' traits data and helping programming BSFG package for revealing genetic and environment relationship of quantitative traits. Welcome to my page and explore the projects I have done.
