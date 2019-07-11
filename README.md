@@ -1,4 +1,4 @@
-<img src="me.jpg" width="350"> 
+<img src="me2.jpg" width="350"> 
 
 # Wei-Kuang's Portfolio 
 
