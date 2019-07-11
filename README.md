@@ -2,10 +2,9 @@
 
 ---
 
-# Wei-Kuang's Portfolio 
-
-:email: wklin@ucdavis.edu
-:arrow_forward: <a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
+* Contact Information
+wklin@ucdavis.edu
+<a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
 
 
 ## Data Analysis &amp; Web Technologies Using Python
