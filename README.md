@@ -7,13 +7,11 @@ Six projects and one teamwork project demonstarted Data Analysis &amp; Web Techn
 
 #### :smiley: <a href = "HW2/assignment2.html">2. Image Processing and Singular Value Decomposition</a> 
 
-#### :watermelon: <a href = "HW3/assignment3.html">3. Data analysis of price for fruits and vegetables </a> 
+#### :watermelon: <a href = "HW3/assignment3.html">3. Data Wrangling for Price of Fruits and Vegetables</a> 
 
-#### :cake: Explore the USDA Food Composition Databases by web API 
-<a href = "HW4/assignment4.html">Assignment 4</a> 
+#### :pizza: <a href = "HW4/assignment4.html">4. Use Web API to Explore the USDA Food Composition Databases</a>
 
-#### :newspaper: Web scraping and natural language processing of text from
-<a href = "https://theaggie.org/"> the California Aggie </a> <a href = "HW5/assignment5.html">Assignment 5</a>    
+#### :newspaper: <a href = "https://theaggie.org/"> the California Aggie </a> <a href = "HW5/assignment5.html"> 5. Web scraping and natural language processing of text from</a>    
 
 #### :earth_americas: Map projections & SQLite dataset of zillow housing price, crime, schools and vendors in San Francisco 
 <a href = "HW6/assignment6.html">Assignment 6</a> 
