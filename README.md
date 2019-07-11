@@ -1,5 +1,4 @@
-# Wei-Kuang's Portfolio
-##### :email: wklin@ucdavis.edu
+# Wei-Kuang's Portfolio ##### :email: wklin@ucdavis.edu
 ##### Six projects and one teamwork project demonstarted Data Analysis &amp; Web Technologies using Python
 
 
