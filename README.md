@@ -12,8 +12,7 @@ Six projects and one teamwork project demonstarted Data Analysis &amp; Web Techn
 #### :pizza: <a href = "HW4/assignment4.html">4. Use Web API to Explore the USDA Food Composition Databases</a>
 
 #### :newspaper: <a href = "HW5/assignment5.html">5. Web Scraping and Natural Language Processing</a>    
-The targeted website: <a href = "https://theaggie.org/"> the California Aggie News</a> 
 
 #### :earth_americas: <a href = "HW6/assignment6.html">6. Use Map Techniques and SQL to analyze housing price and crime rate in San Francisco</a> 
 
-#### :fries: Teamwork project <a href = "https://alice4926.github.io/CaliforniaHousing/"> Analyze living cost using Yelp database </a> 
+#### :fries: <a href = "https://alice4926.github.io/CaliforniaHousing/">Teamwork project: Analyze price, rating, and location using Yelp database </a> 
