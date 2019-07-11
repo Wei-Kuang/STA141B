@@ -1,7 +1,6 @@
 # Wei-Kuang's Portfolio
 Six projects and one teamwork project demonstarted Data Analysis &amp; Web Technologies using Python
 
-### :house: CaliforniaHousing <a href = "https://alice4926.github.io/CaliforniaHousing/">Final Project </a> 
 
 
 ### :calendar: The Doomsday Algorithm <a href = "HW1/assignment1.html">Assignment 1</a>  
@@ -10,3 +9,6 @@ Six projects and one teamwork project demonstarted Data Analysis &amp; Web Techn
 ### :cake: Explore the USDA Food Composition Databases by web API <a href = "HW4/assignment4.html">Assignment 4</a> 
 ### :newspaper: Web scraping and natural language processing of text from<a href = "https://theaggie.org/"> the California Aggie </a> <a href = "HW5/assignment5.html">Assignment 5</a>    
 ### :earth_americas: Map projections & SQLite dataset of zillow housing price, crime, schools and vendors in San Francisco <a href = "HW6/assignment6.html">Assignment 6</a> 
+
+
+### :house: CaliforniaHousing <a href = "https://alice4926.github.io/CaliforniaHousing/">Final Project </a> 
