@@ -1,8 +1,9 @@
 # Wei-Kuang's Portfolio 
-##### :email: wklin@ucdavis.edu
+:email: wklin@ucdavis.edu
 
 
-# Projects demonstarted Data Analysis &amp; Web Technologies using Python
+# Projects 
+Data Analysis &amp; Web Technologies using Python
 
 #### :date: <a href = "https://github.com/Wei-Kuang/STA141B/blob/master/HW1/hw1-2019.ipynb">1. The Doomsday Algorithm </a>  
 
