@@ -2,7 +2,7 @@
 :email: wklin@ucdavis.edu
 
 
-#Projects 
+# Projects 
 Data Analysis &amp; Web Technologies using Python
 
 #### :date: <a href = "https://github.com/Wei-Kuang/STA141B/blob/master/HW1/hw1-2019.ipynb">1. The Doomsday Algorithm </a>  
