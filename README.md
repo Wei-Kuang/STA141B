@@ -1,8 +1,9 @@
 # Wei-Kuang's Portfolio 
+<img src="me.jpg" width="500">
 :email: wklin@ucdavis.edu
 :arrow_forward: <a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
 
-<img src="me.jpg" width="200">
+
 
 ## Data Analysis &amp; Web Technologies Using Python
 
