@@ -1,5 +1,5 @@
 # Wei-Kuang's Portfolio 
-<img src="me.jpg" width="500">
+<img src="me.jpg" width="100">
 :email: wklin@ucdavis.edu
 :arrow_forward: <a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
 
