@@ -1,4 +1,7 @@
 # Wei-Kuang's Portfolio 
+:email: wklin@ucdavis.edu
+:arrow_forward: <a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
+
 
 ## Data Analysis &amp; Web Technologies using Python
 
@@ -17,5 +20,3 @@
 #### :fries: <a href = "https://alice4926.github.io/CaliforniaHousing/"> 7. Teamwork Project: Analyze Price, Rating, and Location Using Yelp Database </a> 
 
 
-:email: wklin@ucdavis.edu
-:arrow_forward: <a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
