@@ -4,7 +4,7 @@
 :arrow_forward: <a href = https://www.linkedin.com/in/wwkklin/> linkedin.com/in/wwkklin </a>
 
 <span style="color:red">some **This is Red Bold.** text</span>
-
+<span style="color:red">text in red</span>
 
 ## Data Analysis &amp; Web Technologies Using Python
 
