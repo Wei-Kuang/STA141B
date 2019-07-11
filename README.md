@@ -1,5 +1,7 @@
 <img src="me2.jpg" width="700"> 
+
 ---
+
 # Wei-Kuang's Portfolio 
 
 :email: wklin@ucdavis.edu
