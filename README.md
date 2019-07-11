@@ -3,7 +3,7 @@ Six projects and one teamwork project demonstarted Data Analysis &amp; Web Techn
 
 
 
-#### :date: The Doomsday Algorithm <a href = "https://github.com/Wei-Kuang/STA141B/blob/master/HW1/hw1-2019.ipynb">Assignment 1</a>  
+#### :date: <a href = "https://github.com/Wei-Kuang/STA141B/blob/master/HW1/hw1-2019.ipynb">The Doomsday Algorithm </a>  
 
 #### :rice_scene: Image Processing Basics and Singular Value Decomposition <a href = "HW2/assignment2.html">Assignment 2</a> 
 
