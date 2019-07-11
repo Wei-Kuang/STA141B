@@ -1,5 +1,5 @@
-# Welcome to Wei-Kuang's Profolio for Data Analysis using Python
-Data &amp; Web Technologies for 
+# Wei-Kuang's Profolio for Data Analysis using Python
+Six projects and one teamwork project demonstarted Data &amp; Web Technologies.
 
 
 
