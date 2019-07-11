@@ -11,7 +11,8 @@ Six projects and one teamwork project demonstarted Data Analysis &amp; Web Techn
 
 #### :pizza: <a href = "HW4/assignment4.html">4. Use Web API to Explore the USDA Food Composition Databases</a>
 
-#### :newspaper: <a href = "https://theaggie.org/"> the California Aggie </a> <a href = "HW5/assignment5.html"> 5. Web scraping and natural language processing of text from</a>    
+#### :newspaper: <a href = "HW5/assignment5.html">5. Web Scraping and Natural Language Processing</a>    
+The targeted website: <a href = "https://theaggie.org/"> the California Aggie News</a> 
 
 #### :earth_americas: Map projections & SQLite dataset of zillow housing price, crime, schools and vendors in San Francisco 
 <a href = "HW6/assignment6.html">Assignment 6</a> 
