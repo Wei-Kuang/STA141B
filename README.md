@@ -3,7 +3,7 @@ Six projects and one teamwork project demonstarted Data Analysis &amp; Web Techn
 
 
 
-### :calendar: The Doomsday Algorithm <a href = "https://github.com/Wei-Kuang/STA141B/blob/master/HW1/hw1-2019.ipynb">Assignment 1</a>  
+### :date: The Doomsday Algorithm <a href = "https://github.com/Wei-Kuang/STA141B/blob/master/HW1/hw1-2019.ipynb">Assignment 1</a>  
 ### :rice_scene: Image Processing Basics and Singular Value Decomposition <a href = "HW2/assignment2.html">Assignment 2</a> 
 ### :corn: Data analysis of the US Department of Agriculture published price for fruits and vegetables <a href = "HW3/assignment3.html">Assignment 3</a> 
 ### :cake: Explore the USDA Food Composition Databases by web API <a href = "HW4/assignment4.html">Assignment 4</a> 
