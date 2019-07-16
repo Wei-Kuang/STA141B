@@ -8,7 +8,7 @@ wklin@ucdavis.edu   &nbsp;  <a href = https://www.linkedin.com/in/wwkklin/> link
 
 #### :date: <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/STA141B/blob/master/HW1/hw1-2019.ipynb">1. The Doomsday Algorithm </a>  
 
-#### :smiley: <a href = "https://github.com/Wei-Kuang/STA141B/blob/master/HW2/hw2-2019.ipynb">2. Write functions to implement of Singular Value Decomposition for Image Compression</a> 
+#### :smiley: <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/STA141B/blob/master/HW2/hw2-2019.ipynb">2. Write functions to implement of Singular Value Decomposition for Image Compression</a> 
 
 #### :watermelon: <a href = "HW3/assignment3.html">3. Data Wrangling for Price of Fruits and Vegetables</a> 
 
