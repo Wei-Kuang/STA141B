@@ -18,6 +18,6 @@ wklin@ucdavis.edu   &nbsp;  <a href = https://www.linkedin.com/in/wwkklin/> link
 
 #### :earth_americas: <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/STA141B/blob/master/HW6/hw6_2019.ipynb">6. Use Map Techniques and SQL to analyze housing price and crime rate in San Francisco</a> 
 
-[//]: # #### :fries: <a href = "https://nbviewer.jupyter.org/Wei-Kuang/STA141B/blob/master/FInalProject/141B%20Final%20Project_2019.ipynb"> 7. Teamwork Project: Analyze Price, Rating, and Location Using Yelp Database </a> 
-
+[//]: # :fries: <a href = "https://nbviewer.jupyter.org/Wei-Kuang/STA141B/blob/master/FInalProject/141B%20Final%20Project_2019.ipynb"> 7. Teamwork Project: Analyze Price, Rating, and Location Using Yelp Database </a> 
+[//]: #
 
