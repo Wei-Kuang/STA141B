@@ -10,7 +10,7 @@ Please click the hyperlink to see my data analysis project:
 
 #### :smiley: <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/STA141B/blob/master/HW2/hw2_2019.ipynb">2. Write functions to implement of Singular Value Decomposition for Image Compression</a> 
 
-#### :watermelon: <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/STA141B/blob/master/HW3/hw3_2019.ipynb">3. Data Wrangling for Price of Fruits and Vegetables</a> 
+#### :watermelon: <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/STA141B/blob/master/HW3/hw3_2019_0728.ipynb">3. Data Wrangling for Price of Fruits and Vegetables</a> 
 
 #### :pizza: <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/STA141B/blob/master/HW4/hw4_2019.ipynb">4. Use Web API to Explore the USDA Food Composition Databases</a>
 
