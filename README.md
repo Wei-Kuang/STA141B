@@ -16,7 +16,7 @@ Please click the hyperlink to see my data analysis project:
 
 #### :earth_americas: <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/STA141B/blob/master/HW5/hw5_2019.ipynb">5. Use Map Techniques and SQL to analyze housing price and crime rate in San Francisco</a> 
 
-#### :newspaper: <a href = "https://nbviewer.jupyter.org/github/Wei-Kuang/STA141B/blob/master/HW6/hw6_2019.ipynb">6. Web Scraping and Natural Language Processing</a>    
+#### :newspaper: <a href = "https://nbviewer.jupyter.org/github.com/Wei-Kuang/STA141B/blob/master/HW6/hw6_2019.ipynb">6. Web Scraping and Natural Language Processing</a>    
 
 
 
